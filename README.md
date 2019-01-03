@@ -1,4 +1,5 @@
 # Product
+## In this project you learn how using your own dataset create a robust classifier. There are in total four classes namely Coke Can, ThumbsUp Can, Mirinda Bottle, Tide Packet!
 
 1. Install virtual environment
 ```bash
