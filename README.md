@@ -1,4 +1,4 @@
-# Product
+# Product Classification using Self Created DataSet
 ##### This project is all about creating your own dataset from scratch and making a robust classifier. There are in total four classes namely Coke Can, ThumbsUp Can, Mirinda Bottle, Tide Packet! The predictions of the network are stored in the `Results` folder.
 
 ##### The model achieves ~97%-98% accuracy on the data stored in the `Results` folder with almost 100% accuracy on the training set.
