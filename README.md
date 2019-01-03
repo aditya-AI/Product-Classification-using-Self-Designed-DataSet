@@ -9,6 +9,10 @@
   <li> <b>Recording videos from Laptop.</b> </li>
 </ol>
 
+### One of the key aspect while collecting the training data was to make sure all the products have similar backgrounds so that the network learns the meaningful and discriminative features of the products in the images and not the `Background`.
+
+### Second most important part was to make sure that the distribution of the validation data is almost the same as the testing data. This helped me to boost my networks performance a lot since I made the architectural and hyperparameter changes based on the validation data that had the distribution similar to what I would expect in real-life scenario (testing environment).
+
 1. Install virtual environment
 ```bash
 pip3 install virtualenv
