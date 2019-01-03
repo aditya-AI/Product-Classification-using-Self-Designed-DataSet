@@ -34,5 +34,5 @@ python3 Classification.py
 
 7. To test the model in real-time using your laptop's webcamera the `webcamera.py` script can be useful. Multi-threading is used to avoid the delay in reading each frame and model's prediction on each frame. Both `.ipynb` and `.py` files are present in the repository.
 ```bash
-python3 webcamera.py
+python3 Web_Camera.py
 ```
