@@ -5,7 +5,7 @@
 
 ##### The data was collected in two ways:
 <ol>
-  <li> <b>Clicking pictures from iPhone-6S plus,</b></li>
+  <li> <b>Clicking pictures from iPhone 6S plus and,</b></li>
   <li> <b>Recording videos from Laptop.</b> </li>
 </ol>
 
