@@ -13,6 +13,8 @@
 
 ### Second most important part was to make sure that the distribution of the validation data is almost the same as the testing data. This helped me to boost my networks performance a lot since I made the architectural and hyperparameter changes based on the validation data that had the distribution similar to what I would expect in real-life scenario (testing environment).
 
+### From the `Results` section it should be clear to you that the background in the images is quite diverse and the model is able to classify almost all of the products correctly.
+
 1. Install virtual environment
 ```bash
 pip3 install virtualenv
