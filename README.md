@@ -27,3 +27,7 @@ pip3 install -r requirements.txt
 ```bash
 python3 video_to_images.py
 ```
+6. Both training and testing (on images) is in the below script, which can be opened in jupyter notebook and can be further converted into `.py` format if needed.
+```bash
+Classification.ipynb
+```
