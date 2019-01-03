@@ -3,6 +3,12 @@
 
 ##### The model achieves ~97%-98% accuracy on the data stored in the `Results` folder with almost 100% accuracy on the training set.
 
+##### The data was collected in two ways:
+<ol>
+  <li> <b>Clicking pictures from iPhone-6S plus,</b></li>
+  <li> <b>Recording videos from Laptop.</b> </li>
+</ol>
+
 1. Install virtual environment
 ```bash
 pip3 install virtualenv
