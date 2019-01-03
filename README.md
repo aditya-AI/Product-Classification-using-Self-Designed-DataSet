@@ -20,3 +20,8 @@ source venv/bin/activate
 ```bash
 pip3 install -r requirements.txt
 ```
+
+5. To create your own dataset from videos, run the below command by specifying the video (from path) and frames (to path). You shall expect for a 1 min. video 60 frames.
+```bash
+python3 video_to_images.py
+```
