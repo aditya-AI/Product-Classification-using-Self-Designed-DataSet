@@ -11,7 +11,7 @@
 
 ### One of the key aspect while collecting the training data was to make sure all the products have similar backgrounds so that the network learns the meaningful and discriminative features of the products in the images and not the `Background`.
 
-### Second most important part was to make sure that the distribution of the validation data is almost the same as the testing data. This helped me to boost my networks performance a lot since I made the architectural and hyperparameter changes based on the validation data that had the distribution similar to what I would expect in real-life scenario (testing environment).
+### Second most important part was to make sure that the distribution of the validation data is almost the same as the testing data. This helped me to boost the performance of my network a lot since I made the architectural and hyperparameter changes based on the validation data that had the distribution similar to what I would expect in a real-life scenario (testing environment).
 
 ### From the `Results` section it should be clear to you that the background in the images is quite diverse and the model is able to classify almost all of the products correctly.
 
@@ -39,12 +39,12 @@ pip3 install -r requirements.txt
 ```bash
 python3 video_to_images.py
 ```
-6. Both training and testing (on images) is in the `Classification.ipynb` notebook, which can be opened in jupyter notebook. Otherwise, run the below command in your virtual environment. Make sure to specify correct training and validation data paths.
+6. Both training and testing (on images) is in the `Classification.ipynb` notebook, which can be opened in a jupyter notebook. Otherwise, run the below command in your virtual environment. Make sure to specify correct training and validation data paths.
 ```bash
 python3 Classification.py
 ```
 
-7. To test the model in real-time using your laptop's webcamera the `webcamera.py` script can be useful. Multi-threading is used to avoid the delay in reading each frame and model's prediction on each frame. Both `.ipynb` and `.py` files are present in the repository.
+7. To test the model in real-time using your laptop's web camera the `webcamera.py` script can be useful. Multi-threading is used to avoid the delay in reading each frame and model's prediction on each frame. Both `.ipynb` and `.py` files are present in the repository.
 ```bash
 python3 Web_Camera.py
 ```
