@@ -12,7 +12,7 @@ virtualenv venv
 
 3. Activate virtualenv
 ```bash
-. venv/bin/activate
+source venv/bin/activate
 ```
 
 4. Install the requirements
