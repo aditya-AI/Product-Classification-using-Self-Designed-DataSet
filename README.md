@@ -15,7 +15,7 @@
 
 ### From the `Results` section it should be clear to you that the background in the images is quite diverse and the model is able to classify almost all of the products correctly.
 
-<b>Link to the Video:</b> [Product Classification using Self Designed DataSet Playlist](https://www.youtube.com/watch?v=r87KPuP5yBI&list=PLmMsypEcVPfYmxj3RvrmZ2lAz1OCQd-V6)
+<b>Link to the Video:</b> [Product Classification using Self Designed DataSet Playlist](https://www.youtube.com/watch?v=r87KPuP5yBI&list=PLmMsypEcVPfYmxj3RvrmZ2lAz1OCQd-V6) {:target="_blank"}
 
 1. Install virtual environment
 ```bash
