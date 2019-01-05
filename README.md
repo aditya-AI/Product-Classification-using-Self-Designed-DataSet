@@ -17,6 +17,8 @@
 
 <b>Link to the Video:</b> <a href="https://www.youtube.com/watch?v=r87KPuP5yBI&list=PLmMsypEcVPfYmxj3RvrmZ2lAz1OCQd-V6" target="_blank"> Product Classification using Self Designed DataSet Playlist</a>
 
+<a href="https://www.youtube.com/watch?v=r87KPuP5yBI&list=PLmMsypEcVPfYmxj3RvrmZ2lAz1OCQd-V6/" target="_blank">Product Classification using Self Designed DataSet Playlist</a>
+
 1. Install virtual environment
 ```bash
 pip3 install virtualenv
